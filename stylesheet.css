@@ -5,7 +5,7 @@ body {
   *{
   margin: 0;
   padding: 0;
-  color: black;
+  color: lightblue;
 }
 
 .letter{
@@ -42,6 +42,7 @@ body {
   top: -600px;
   left: -50px;
   font-size: 900px;
+  transform: rotate3d(25deg);
 }
 
 .letter3{
