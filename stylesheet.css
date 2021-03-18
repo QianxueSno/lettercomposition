@@ -19,19 +19,3 @@
   left: -100px;
   font-size: 800px;
 }
-
-.letter{
-  position: relative;
-  width: 600px;
-  height: 600px;
-  border: 1px solid black;
-  overflow: hidden;
-}
-.q {
-  font-family: font-family: 'Noto Sans TC', sans-serif;
-  font-weight: bold;
-  position: absolute;
-  top: -400px;
-  left: -200px;
-  font-size: 800px;
-}
