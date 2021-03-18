@@ -1,11 +1,11 @@
 body {
-  background-color: IndianRed;
+  background-color: white;
   background-size: cover;
   }
   *{
   margin: 0;
   padding: 0;
-  color: green;
+  color: grey;
 }
 
 .letter{
