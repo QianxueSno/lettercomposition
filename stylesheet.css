@@ -107,7 +107,8 @@
   font-family: 'Ranchers', cursive;
   font-weight: bold;
   position: absolute;
-  top: -400px;
+  top: -420px;
   left: -30px;
   font-size: 800px;
+  transform: rotateZ(55deg);
 }
