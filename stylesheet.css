@@ -39,10 +39,10 @@ body {
   font-family: 'Syne Mono', monospace;
   font-weight: bold;
   position: absolute;
-  top: -600px;
-  left: -50px;
+  top: -401px;
+  left: -88px;
   font-size: 900px;
-  transform: rotate(25deg);
+  transform: rotate(125deg);
 }
 
 .letter3{
