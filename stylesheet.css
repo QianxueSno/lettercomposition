@@ -53,7 +53,7 @@
   font-weight: bold;
   position: absolute;
   top: -400px;
-  left: -70px;
+  left: -120px;
   font-size: 900px;
   transform: rotate(45deg);
 }
@@ -67,7 +67,7 @@
   border: 1px solid black;
   overflow: hidden;
 }
-.E {
+.a {
   font-family: font-family: 'Noto Sans TC', sans-serif;
   font-weight: bold;
   position: absolute;
