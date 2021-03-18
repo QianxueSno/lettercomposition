@@ -55,7 +55,7 @@
   top: -400px;
   left: -70px;
   font-size: 900px;
-  transform: rotateX(75deg);
+  transform: rotate(45deg);
 }
 
 .letter4{
