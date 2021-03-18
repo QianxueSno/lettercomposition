@@ -11,11 +11,20 @@
   overflow: hidden;
 }
 
-.x {
+.b {
   font-family: font-family: 'Noto Sans TC', sans-serif;
   font-weight: bold;
   position: absolute;
   top: -200px;
   left: -100px;
+  font-size: 800px;
+}
+
+.q {
+  font-family: font-family: 'Noto Sans TC', sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: -400px;
+  left: -200px;
   font-size: 800px;
 }
