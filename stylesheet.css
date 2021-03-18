@@ -12,11 +12,11 @@
 }
 
 .b {
-  font-family: font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Ranchers', cursive;
   font-weight: bold;
   position: absolute;
-  top: -200px;
-  left: -100px;
+  top: -300px;
+  left: -150px;
   font-size: 900px;
   transform: rotate(5deg);
 }
