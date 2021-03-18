@@ -86,7 +86,7 @@
   overflow: hidden;
 }
 .gs {
-    font-family: 'Syne Mono', monospace;
+  font-family: font-family: 'Noto Sans TC', sans-serif;
   font-weight: bold;
   position: absolute;
   top: -400px;
