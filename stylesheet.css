@@ -16,8 +16,8 @@
   font-weight: bold;
   position: absolute;
   top: -200px;
-  left: -15px;
-  font-size: 600px;
+  left: -25px;
+  font-size: 650px;
   transform: rotate(5deg);
 }
 
@@ -53,8 +53,9 @@
   font-weight: bold;
   position: absolute;
   top: -400px;
-  left: 0px;
-  font-size: 800px;
+  left: -70px;
+  font-size: 900px;
+  transform: rotateX(45deg);
 }
 
 .letter4{
