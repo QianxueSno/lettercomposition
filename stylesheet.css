@@ -17,7 +17,8 @@
   position: absolute;
   top: -200px;
   left: -100px;
-  font-size: 800px;
+  font-size: 900px;
+  transform: rotate(25deg);
 }
 
 .letter2{
