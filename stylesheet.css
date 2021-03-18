@@ -85,8 +85,8 @@
   border: 1px solid black;
   overflow: hidden;
 }
-.gs {
-    font-family: 'Syne Mono', monospace;
+.r {
+  font-family: 'Redressed', cursive;
   font-weight: bold;
   position: absolute;
   top: -400px;
