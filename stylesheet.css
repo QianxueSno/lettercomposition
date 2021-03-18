@@ -65,7 +65,25 @@
   border: 1px solid black;
   overflow: hidden;
 }
-.R {
+.E {
+  font-family: font-family: 'Noto Sans TC', sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: -400px;
+  left: 0px;
+  font-size: 800px;
+}
+
+.letter5{
+  position: absolute;
+  top: 0px;
+  left: 1200px;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  overflow: hidden;
+}
+.gs {
   font-family: font-family: 'Noto Sans TC', sans-serif;
   font-weight: bold;
   position: absolute;
