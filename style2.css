@@ -25,12 +25,11 @@ body {
 }
 
 .c {
-  height: 60px;
-  width: 60px;
-  background-color: #3c8625;
+  height: 100px;
+  width: 100px;
+  background-color: black;
   border-radius: 50%;
   display: inline-block;
-  border:none;
 }
 
 .d {
@@ -39,8 +38,6 @@ body {
   background-color: #7FFF00;
   border-radius: 50%;
   display: inline-block;
-
-
 }
 
 .text{
@@ -75,5 +72,67 @@ body {
 
 .text2:hover{
   color: red;
+
+}
+
+@media screen and (max-width:850px){
+  body {
+    background-color: black;
+    background-size: cover;
+    display:flex;
+    flex-flow: row wrap;
+    margin: auto;
+    margin-top:70px;
+    width: 480px;
+    }
+    *{
+      margin: auto;
+      padding: auto;
+      color: lightblue;
+      width: 480px;
+  }
+  .text{
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+    color: white;
+    margin-left:20px;
+    margin-top:770px;
+    position: fixed;
+    z-index: 100;
+  }
+
+  .text2{
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+    color: #7FFF00;
+    margin-left:20px;
+    margin-top:10px;
+    position: fixed;
+    z-index: 100;
+  }
+
+  .dd {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .c {
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .d {
+    height: 60px;
+    width: 60px;
+    background-color: #7FFF00;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
 }
