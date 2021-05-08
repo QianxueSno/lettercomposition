@@ -136,3 +136,57 @@ body {
   }
 
 }
+@media screen and (min-width:850px; max-width:2048px){
+  {
+    width: 2040px;
+    }
+    *{
+
+      width: 2040px;
+  }
+  .text{
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+    color: white;
+    margin-left:20px;
+    margin-top:770px;
+    position: fixed;
+    z-index: 100;
+  }
+
+  .text2{
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+    color: #7FFF00;
+    margin-left:20px;
+    margin-top:10px;
+    position: fixed;
+    z-index: 100;
+  }
+
+  .dd {
+    height: 90px;
+    width: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .c {
+    height: 120px;
+    width: 120px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .d {
+    height: 90px;
+    width: 90px;
+    background-color: #7FFF00;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+}
+}
